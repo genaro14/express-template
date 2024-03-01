@@ -1,9 +1,10 @@
 const express = require("express");
 
-const { InfoController } = require("../../controllers");
+const { healthController, mockController } = require("../../controllers");
 
 const router = express.Router();
 
-router.get("/info", InfoController.info);
+router.get("/health", healthController.health);
+router.get("/mock/notebook", mockController.data);
 
 module.exports = router;

@@ -1,3 +1,4 @@
 module.exports = {
-  InfoController: require("./info-controller"),
+  healthController: require("./healthController"),
+  mockController: require("./mockController")
 };

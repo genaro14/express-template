@@ -106,3 +106,11 @@ Lets take a look inside the `src` folder
 - [Jest](https://jestjs.io/) - Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
 - [HTTP Status Codes](https://www.npmjs.com/package/http-status-codes) - Constants enumerating the HTTP status codes.
 - [Winston](https://www.npmjs.com/package/winston) - A logger for just about everything.
+
+## Endpoints in this Template
+
+### Health
+[http://localhost:5000/api/v1/health](http://localhost:5000/api/v1/health)
+### Notebook
+
+[http://localhost:5000/api/v1/mock/notebook](http://localhost:5000/api/v1/mock/notebook)

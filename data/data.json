@@ -1,0 +1,70 @@
+{
+	"data": [
+		{
+			"value": "Intel Core Ultra 5 1008H",
+			"max_score": 1611,
+			"min_score": 1403,
+			"avg_score": "1534"
+		},
+		{
+			"value": "Intel Core Ultra 5 125H",
+			"max_score": 1763,
+			"min_score": 978,
+			"avg_score": "1482"
+		},
+		{
+			"value": "Intel Core Ultra 5 135H",
+			"max_score": 1746,
+			"min_score": 938,
+			"avg_score": "1498"
+		},
+		{
+			"value": "Intel Core Ultra 7 155H",
+			"max_score": 1922,
+			"min_score": 553,
+			"avg_score": "1580"
+		},
+		{
+			"value": "Intel Core Ultra 7 155U",
+			"max_score": 1366,
+			"min_score": 1366,
+			"avg_score": "1366"
+		},
+		{
+			"value": "Intel Core Ultra 7 165H",
+			"max_score": 1936,
+			"min_score": 1045,
+			"avg_score": "1672"
+		},
+		{
+			"value": "Intel Core Ultra 9 185H",
+			"max_score": 1941,
+			"min_score": 1167,
+			"avg_score": "1717"
+		},
+		{
+			"value": "Intel CoreTM Ultra 5 125U",
+			"max_score": 1413,
+			"min_score": 1413,
+			"avg_score": "1413"
+		},
+		{
+			"value": "Intel CoreTM Ultra 5 135U",
+			"max_score": 1555,
+			"min_score": 946,
+			"avg_score": "1341"
+		},
+		{
+			"value": "Intel CoreTM Ultra 7 155U",
+			"max_score": 1650,
+			"min_score": 840,
+			"avg_score": "1424"
+		},
+		{
+			"value": "Intel CoreTM Ultra 7 165U",
+			"max_score": 1671,
+			"min_score": 924,
+			"avg_score": "1408"
+		}
+	]
+}
