@@ -1,6 +1,25 @@
 {
 	"data": [
+		
 		{
+			"value": "Intel Core i9-14900HX",
+			"max_score": 2356,
+			"min_score": 1684,
+			"avg_score": "2023"
+		},
+		
+		{	
+			"value": "Intel Core i7-14650HX",
+			"max_score": 2088,
+			"min_score": 1956,
+			"avg_score": "2050"
+		},
+		{
+			"value": "Intel Core i7-14700HX",
+			"max_score": 2227,
+			"min_score": 1798,
+			"avg_score": "2034"
+		},{
 			"value": "Intel Core Ultra 5 1008H",
 			"max_score": 1611,
 			"min_score": 1403,
