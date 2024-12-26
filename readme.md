@@ -13,7 +13,7 @@
 - **No black box.** Understand every line of code and customize it to your needs.
 - **No legacy.** Uses the latest version of Express and Node.js.
 
-## Getting Started
+## Getting Started 
 
 ### Prerequisites
 
