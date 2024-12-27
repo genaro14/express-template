@@ -22,7 +22,9 @@
 - [VS Code](https://code.visualstudio.com/)
 - [Yarn](https://yarnpkg.com/en/) (optional)
 - [Pnpm](https://pnpm.js.org/) (optional)
-
+- [Jest](https://jestjs.io/)
+- [Eslint](https://eslint.org/)
+- [Husky](https://typicode.github.io/husky/)
 ### Installation
 
 - Clone the repository
