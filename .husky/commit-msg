@@ -1,1 +1,2 @@
-pnpx --no -- commitlint --edit $1
+pnpm exec commitlint --edit $1
+
