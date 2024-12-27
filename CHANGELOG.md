@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.7.0](https://github.com/genaro14/express-template/compare/v1.6.1...v1.7.0) (2024-12-27)
+
+
+### Features
+
+* add new tool to readme ([2e8eeb7](https://github.com/genaro14/express-template/commit/2e8eeb7e701155a9eb2069f9af3d248d093622dc))
+
 ### [1.6.1](https://github.com/genaro14/express-template/compare/v1.6.0...v1.6.1) (2024-12-27)
 
 ## [1.6.0](https://github.com/genaro14/express-template/compare/v1.5.0...v1.6.0) (2024-12-27)
