@@ -7,7 +7,7 @@
     "dev": "node --watch src/index.js",
     "lint": "eslint .",
     "test": "pnpm exec jest",
-    "release": "standard-version && git push --follow-tags --no-verify",
+    "release": "standard-version --skip.commit && git push --follow-tags --no-verify",
     "prepare": "husky",
     "pre-commit": "pnpm run lint && pnpm run test",
     "pre-push": "pnpm run release"
@@ -15,6 +15,12 @@
   "keywords": [
     "template"
   ],
+  "standard-version": {
+    "skip": {
+      "changelog": true,
+      "commit": true
+    }
+  },
   "author": "GP",
   "license": "ISC",
   "dependencies": {
