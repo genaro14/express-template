@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/genaro14/express-template/compare/v1.1.0...v1.2.0) (2024-12-27)
+
+
+### Features
+
+* new Test example test B ([b65b5a0](https://github.com/genaro14/express-template/commit/b65b5a0ecd14b72a4c05591740c9075b2dab79aa))
+
 ## 1.1.0 (2024-12-27)
 
 
