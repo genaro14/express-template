@@ -3,6 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const relativePath = '../../data';
   const fileName = 'data.json';
+  // eslint-disable-next-line no-undef
   const filePath = path.join(__dirname, relativePath, fileName);
 
 const data = (req, res) => {
